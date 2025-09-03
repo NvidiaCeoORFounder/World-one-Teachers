@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/NvidiaCeoORFounder/World-one-Teachers/static/css/main.f469c37d.css",
-    "main.js": "/NvidiaCeoORFounder/World-one-Teachers/static/js/main.946ae760.js",
-    "static/media/mov_bbb1.mp4": "/NvidiaCeoORFounder/World-one-Teachers/static/media/mov_bbb1.2c92d01256c8f29e1b68.mp4",
-    "static/media/mov_bbb2.mp4": "/NvidiaCeoORFounder/World-one-Teachers/static/media/mov_bbb2.2c92d01256c8f29e1b68.mp4",
-    "static/media/mov_bbb3.mp4": "/NvidiaCeoORFounder/World-one-Teachers/static/media/mov_bbb3.2c92d01256c8f29e1b68.mp4",
-    "static/media/spandana.png": "/NvidiaCeoORFounder/World-one-Teachers/static/media/spandana.27559ffcd673f409dc8b.png",
-    "static/media/vandana.png": "/NvidiaCeoORFounder/World-one-Teachers/static/media/vandana.951af4b62c7ea8bee9cd.png",
-    "static/media/background.jpg": "/NvidiaCeoORFounder/World-one-Teachers/static/media/background.6a9bdf32e457ba918e3d.jpg",
-    "static/media/Rani.png": "/NvidiaCeoORFounder/World-one-Teachers/static/media/Rani.aeba02cab9df09d7a874.png",
-    "static/media/logo.png": "/NvidiaCeoORFounder/World-one-Teachers/static/media/logo.5760ee61e994b4fb9314.png",
-    "index.html": "/NvidiaCeoORFounder/World-one-Teachers/index.html",
-    "main.f469c37d.css.map": "/NvidiaCeoORFounder/World-one-Teachers/static/css/main.f469c37d.css.map",
-    "main.946ae760.js.map": "/NvidiaCeoORFounder/World-one-Teachers/static/js/main.946ae760.js.map"
+    "main.css": "/World-one-Teachers/static/css/main.f469c37d.css",
+    "main.js": "/World-one-Teachers/static/js/main.e928b7a2.js",
+    "static/media/mov_bbb1.mp4": "/World-one-Teachers/static/media/mov_bbb1.2c92d01256c8f29e1b68.mp4",
+    "static/media/mov_bbb2.mp4": "/World-one-Teachers/static/media/mov_bbb2.2c92d01256c8f29e1b68.mp4",
+    "static/media/mov_bbb3.mp4": "/World-one-Teachers/static/media/mov_bbb3.2c92d01256c8f29e1b68.mp4",
+    "static/media/spandana.png": "/World-one-Teachers/static/media/spandana.27559ffcd673f409dc8b.png",
+    "static/media/vandana.png": "/World-one-Teachers/static/media/vandana.951af4b62c7ea8bee9cd.png",
+    "static/media/background.jpg": "/World-one-Teachers/static/media/background.6a9bdf32e457ba918e3d.jpg",
+    "static/media/Rani.png": "/World-one-Teachers/static/media/Rani.aeba02cab9df09d7a874.png",
+    "static/media/logo.png": "/World-one-Teachers/static/media/logo.5760ee61e994b4fb9314.png",
+    "index.html": "/World-one-Teachers/index.html",
+    "main.f469c37d.css.map": "/World-one-Teachers/static/css/main.f469c37d.css.map",
+    "main.e928b7a2.js.map": "/World-one-Teachers/static/js/main.e928b7a2.js.map"
   },
   "entrypoints": [
     "static/css/main.f469c37d.css",
-    "static/js/main.946ae760.js"
+    "static/js/main.e928b7a2.js"
   ]
 }
